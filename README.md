@@ -23,15 +23,3 @@ This repository contains implementations of various Reinforcement Learning (RL) 
 ```sh
 python frozenlake_qlearning.py
 
-or
-
-sh
-Copy
-Edit
-python REINFORCE-CartPole.py
-📺 Demo:
-(If uploaded)
-
-🔗 References:
-OpenAI Gym
-Reinforcement Learning Textbook
